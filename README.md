@@ -1,36 +1,36 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+requirment gatharing - requirment analisys - system design - impelementaion - testing - deployment 
 
-## Getting Started
+##clint description
+We are seeking an experienced MERN stack developer to help us implement a quick feature for our Real Estate web application. This project involves working on a specific functionality that will enhance the user experience and streamline our operations.
 
-First, run the development server:
+Responsibilities
+- Feature development
+Design, develop, and deploy a new feature using the MERN stack.
+Ensure the feature is responsive, user-friendly, and performs well across different devices and browsers.ure Developmewnt
+- Integration
+Integrate the feature with our current system without disrupting existing functionalities.
+Work with RESTful APIs to fetch and manage data.
+- Testing & Debugging
+Perform thorough testing to ensure the feature is bug-free.
+Debug and resolve any issues that arise during the development and testing phases.
+- Documentation
+Provide clear and concise documentation for the code and feature.
+Prepare a brief user guide or notes on how to use and maintain the new feature.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+##functional requirments for example in airbnb
+-1- there are guest or more needs a host for a day or two days For tourism or treatment 
+-2- there are host man can take guest and there can take more than one
+-3- we are support this survice on luxer , new capital , alexandria only
+-4- we are need a recommendation system
+-5- we are need search system 
+-6- payment online
+-7- point system and discount 
+-8- registration system
+-9- posibility to add host for host man
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+##non-functional requirments 
+-1- usability the user's need a simple ui system to get ot the point and ux to be more comfortable
+-2- we need to ask for register when the user enter to get host ro to dispaly one
+-3- pagination for many host's performance
+-4- sequirity when the payment transaction 
